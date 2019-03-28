@@ -1,2 +1,3 @@
 this is docker images from dockhub
 for internet fetch errors.
+Dockerfile should have a ptah.
